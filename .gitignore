@@ -23,3 +23,5 @@ yarn-debug.log*
 yarn-error.log*
 react-cars-app/node_modules/
 react-cars-app/build/
+nestjs-cars-app/node_modules/
+nestjs-cars-app/build/
